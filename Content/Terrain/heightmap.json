@@ -1,0 +1,11 @@
+{
+  "resolution": 2001,
+  "spacing_m": 1.0,
+  "min_elevation_m": 1839.054,
+  "max_elevation_m": 2140.487,
+  "center_lat": 35.581262,
+  "center_lon": -111.630613,
+  "zoom": 15,
+  "source": "AWS Terrain Tiles (Terrarium), https://registry.opendata.aws/terrain-tiles/",
+  "layout": "uint16 little-endian, row 0 = north, column 0 = west"
+}
